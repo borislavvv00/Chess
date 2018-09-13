@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\chess\chess\pawnreachendofboardlogic.h(13): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\chess\chess\classoption.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\chess\chess\ailogic.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chess.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\Chess\Debug\Chess.exe
+  Chess.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\Chess\Debug\Chess.pdb (Full PDB)
