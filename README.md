@@ -14,4 +14,4 @@ When pawn reach the end of the chess board you can choose with which figure to c
 The game ends when one of the kings have been taken or when the time ended. Clock restarted every time when player place a figure.
 
 # Requirements :
-To start the program you will need SFML-2.4.2.
+To compile the program you will need SFML-2.4.2.
